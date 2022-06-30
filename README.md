@@ -1,1 +1,1 @@
-# paramo_challenge
+# Paramo Challenge
